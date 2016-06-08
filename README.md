@@ -1,0 +1,1 @@
+![conometro](img/crono.png)

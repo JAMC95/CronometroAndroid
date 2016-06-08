@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Cronometro</string>
+    <string name="action_settings">Settings</string>
+    <string name="parar">Parar</string>
+    <string name="resetear">Resetear</string>
+    <string name="empezar">Empezar</string>
+</resources>
